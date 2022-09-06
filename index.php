@@ -48,5 +48,5 @@ if (!empty($_POST['email']) && !empty($_POST['pwd'])) {
 		<p><b
     </div
 </div>
-</div>
+
 <?php include('inc/footer.php');?>
